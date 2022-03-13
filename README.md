@@ -38,10 +38,10 @@
 | [大职资料](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6/tree/master/%E5%A4%A7%E8%81%8C%E8%B5%84%E6%96%99) | 大一 下 | :green_book: |             |                  |           | :white_check_mark: |
 | [大英口语（外教）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6/tree/master/%E5%A4%A7%E8%8B%B1%E5%8F%A3%E8%AF%AD) | 大一 下 | :green_book: |             |                  |           |                    |
 | [思修](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6/tree/master/%E6%80%9D%E4%BF%AE%E8%B5%84%E6%96%99) | 大一 下 |              |             |                  |           | :white_check_mark: |
-| [毛概](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6/tree/master/%E6%AF%9B%E6%A6%82%E8%B5%84%E6%96%99/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99) | 大一 下 | :green_book: |             |                  |           |                    |
-| [C程序语言设计（理论 + 实验）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6) | 大一 下 | :green_book: | :blue_book: | :page_facing_up: | :package: | :white_check_mark: |
+| [毛概](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6/tree/master/%E6%AF%9B%E6%A6%82%E8%B5%84%E6%96%99) | 大一 下 | :green_book: |             |                  |           |                    |
+| [C程序语言设计（理论 + 实验）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6/tree/master/C%E8%AF%AD%E8%A8%80%E8%AE%BE%E8%AE%A1) | 大一 下 | :green_book: | :blue_book: | :page_facing_up: | :package: | :white_check_mark: |
 | [学术英语读写](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E5%AD%A6%E6%9C%AF%E8%8B%B1%E8%AF%AD%E8%AF%BB%E5%86%99) | 大二 上 | :green_book: |             | :page_facing_up: |           |                    |
-| [形势与政策](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96%E8%B5%84%E6%96%99) | 大二 上 | :green_book: |             |                  |           | :white_check_mark: |
+| [形势与政策](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96) | 大二 上 | :green_book: |             |                  |           | :white_check_mark: |
 | [概率论与数理统计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) | 大二 上 | :green_book: | :blue_book: | :page_facing_up: | :package: | :white_check_mark: |
 | [理论力学](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6) | 大二 上 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
 | [线性代数](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0) | 大二 上 | :green_book: | :blue_book: | :page_facing_up: |           | :white_check_mark: |
@@ -49,7 +49,7 @@
 | [金工实习A-现代工程](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6/tree/master/%E9%87%91%E5%B7%A5%E5%AE%9E%E4%B9%A0A-%E7%8E%B0%E4%BB%A3%E5%B7%A5%E7%A8%8B) | 大二 上 | :green_book: |             |                  | :package: |                    |
 | [Fundamentals of Aerodynamics (双语)](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/Fundamentals%20of%20Aerodynamics) | 大二 下 | :green_book: | :blue_book: | :page_facing_up: |           | :white_check_mark: |
 | [复变函数与积分变换](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2) | 大二 下 | :green_book: | :blue_book: |                  |           | :white_check_mark: |
-| [学术英语口语](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/Fundamentals%20of%20Aerodynamics) | 大二 下 | :green_book: |             | :page_facing_up: |           |                    |
+| [学术英语口语](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/%E5%AD%A6%E6%9C%AF%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD) | 大二 下 | :green_book: |             | :page_facing_up: |           |                    |
 | [电工电子技术](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF) | 大二 下 |              | :blue_book: | :page_facing_up: |           |                    |
 | [电工电子技术实验](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C) | 大二 下 |              |             | :page_facing_up: | :package: |                    |
 | [结构强度基础](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6/tree/master/%E7%BB%93%E6%9E%84%E5%BC%BA%E5%BA%A6%E5%9F%BA%E7%A1%80) | 大二 下 |              | :blue_book: | :page_facing_up: |           | :white_check_mark: |
@@ -60,13 +60,13 @@
 | [弹性力学](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6) | 大三 上 | :green_book: |             | :page_facing_up: |           |                    |
 | [数学物理方程](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B) | 大三 上 | :green_book: |             |                  |           |                    |
 | [机械原理](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86) | 大三 上 | :green_book: |             |                  | :package: |                    |
-| [流体力学实验](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A) | 大三 上 |              |             | :page_facing_up: |           | :white_check_mark: |
+| [流体力学实验](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%AE%9E%E9%AA%8C) | 大三 上 |              |             | :page_facing_up: |           | :white_check_mark: |
 | [结构强度基础实验](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E7%BB%93%E6%9E%84%E5%BC%BA%E5%BA%A6%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C) | 大三 上 |              |             | :page_facing_up: |           |                    |
 | [边界元素法](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E8%BE%B9%E7%95%8C%E5%85%83%E7%B4%A0%E6%B3%95) | 大三 上 | :green_book: |             | :page_facing_up: | :package: | :white_check_mark: |
 | [飞机辅助设计软件应用](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8) | 大三 上 |              |             |                  | :package: | :white_check_mark: |
-| [飞行动力学（上）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%8A%A8%E5%8A%9B%E5%AD%A6) | 大三 上 |              |             | :page_facing_up: |           | :white_check_mark: |
+| [飞行动力学（上）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%8A%A8%E5%8A%9B%E5%AD%A6%EF%BC%88%E4%B8%8A%EF%BC%89) | 大三 上 |              |             | :page_facing_up: |           | :white_check_mark: |
 | [飞行器结构力学](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E5%8A%9B%E5%AD%A6) | 大三 上 |              |             | :page_facing_up: |           |                    |
-| [MATLAB 软件与应用](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/MATLAB%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E8%AF%BE%E7%A8%8B%E5%A4%A7%E4%BD%9C%E4%B8%9A-2020%E6%98%A5%E5%AD%A3) | 大三 下 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
+| [MATLAB 软件与应用](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/MATLAB%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BA%94%E7%94%A8) | 大三 下 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
 | [智能飞行控制](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E6%99%BA%E8%83%BD%E9%A3%9E%E8%A1%8C%E6%8E%A7%E5%88%B6) | 大三 下 |              |             | :page_facing_up: |           |                    |
 | [粘性流体力学](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6) | 大三 下 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
 | [自动控制原理](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86) | 大三 下 | :green_book: |             | :page_facing_up: | :package: |                    |
@@ -75,7 +75,7 @@
 | [飞行器总体设计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1) | 大三 下 |              |             | :page_facing_up: | :package: |                    |
 | [飞行器结构设计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1) | 大三 下 | :green_book: |             |                  | :package: |                    |
 
-*注：以上统计信息可能不准确，请大家移步具体仓库查看资料 ~*
+注：以上统计信息可能不准确，请大家移步具体仓库查看资料 ~
 
 ## Declaration
 
@@ -95,7 +95,7 @@
 - ***Bilibili Space*:** [SmallShrimp99](https://link.zhihu.com/?target=https%3A//space.bilibili.com/167343763)
 - ***知乎：*** [小小哒虾米](https://www.zhihu.com/people/xiao-xiao-da-xia-mi)
 
-本仓库分享的所有资料署名权由本仓库分享者所有！:muscle:
+注：本仓库分享的所有资料署名权由本仓库分享者所有！:muscle:
 
 ## Notice
 
@@ -117,7 +117,7 @@
 
 ------
 
-<font size = 2.5>^_^ This is the END of the page / document. Thank you for reading! </font>
+<font size = 2.5>^_^ This is the END of the page. Thank you for reading! </font>
 
 <font size = 2.5>If you think this project is helpful to you, do not hesitate to light up the 'Star' or 'Fork' in my Github Repository!</font>
 
