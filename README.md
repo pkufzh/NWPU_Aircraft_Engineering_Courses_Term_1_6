@@ -18,11 +18,11 @@
 
 各个仓库的 ***Git*** 导航请***点击下方链接***：
 
-***「Freshman Year」*** :running:: [大一上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :running:: [大一下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6)
+***「Freshman Year」***    :running:: [大一上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :running:: [大一下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6)
 
 ***「Sophomore Year」*** :man_student:: [大二上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6) :man_student:: [大二下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6)
 
-***「Junior Year」*** :man_technologist:: [大三上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :man_technologist:: [大三下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6)
+***「Junior Year」***          :man_technologist:: [大三上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :man_technologist:: [大三下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6)
 
 收录科目及包含资料的**总目录**展示如下（所有仓库目录均相同）：
 
@@ -66,7 +66,7 @@
 | [飞机辅助设计软件应用](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8) | 大三 上 |              |             |                  | :package: | :white_check_mark: |
 | [飞行动力学（上）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%8A%A8%E5%8A%9B%E5%AD%A6) | 大三 上 |              |             | :page_facing_up: |           | :white_check_mark: |
 | [飞行器结构力学](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E5%8A%9B%E5%AD%A6) | 大三 上 |              |             | :page_facing_up: |           |                    |
-| [MATLAB软件与应用](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/MATLAB%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E8%AF%BE%E7%A8%8B%E5%A4%A7%E4%BD%9C%E4%B8%9A-2020%E6%98%A5%E5%AD%A3) | 大三 下 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
+| [MATLAB 软件与应用](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/MATLAB%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BA%94%E7%94%A8%E8%AF%BE%E7%A8%8B%E5%A4%A7%E4%BD%9C%E4%B8%9A-2020%E6%98%A5%E5%AD%A3) | 大三 下 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
 | [智能飞行控制](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E6%99%BA%E8%83%BD%E9%A3%9E%E8%A1%8C%E6%8E%A7%E5%88%B6) | 大三 下 |              |             | :page_facing_up: |           |                    |
 | [粘性流体力学](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6) | 大三 下 | :green_book: |             | :page_facing_up: |           | :white_check_mark: |
 | [自动控制原理](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86) | 大三 下 | :green_book: |             | :page_facing_up: | :package: |                    |
@@ -74,6 +74,8 @@
 | [飞行动力学（下）](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%8A%A8%E5%8A%9B%E5%AD%A6%EF%BC%88%E4%B8%8B%EF%BC%89) | 大三 下 | :green_book: | :blue_book: |                  | :package: |                    |
 | [飞行器总体设计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1) | 大三 下 |              |             | :page_facing_up: | :package: |                    |
 | [飞行器结构设计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1) | 大三 下 | :green_book: |             |                  | :package: |                    |
+
+注：以上统计信息可能不准确，请大家移步具体仓库查看 ~
 
 ## Declaration
 
@@ -83,26 +85,25 @@
 
 如果涉及版权问题（**例如：部分资料无法外传**）请联系作者，我会立刻删除。
 
-不忘工大培养，感谢各位老师！**公诚勇毅，三实一新，薪火相传！**
-
 ## Contact Me
 
-欢迎联系我反馈各种问题！大家可以通过以下方式给我留言~
+欢迎联系我反馈各种问题！大家可以通过以下各种方式给我留言~
 
 - ***E-mail*:** 563337368@qq.com
 - ***Github*:** [https://github.com/pkufzh](https://link.zhihu.com/?target=https%3A//github.com/pkufzh)
 - ***Hexo Blog*:** [Small Shrimp](https://link.zhihu.com/?target=https%3A//pkufzh.github.io/)
 - ***Bilibili Space*:** [SmallShrimp99](https://link.zhihu.com/?target=https%3A//space.bilibili.com/167343763)
+- ***知乎：*** [小小哒虾米](https://www.zhihu.com/people/xiao-xiao-da-xia-mi)
 
-**！注意：**本仓库分享的所有资料署名权由本仓库分享者所有！:muscle:
+**注意：**本仓库分享的所有资料署名权由本仓库分享者所有！:muscle:
 
 ## Notice
 
-{% note success %}
-本仓库开源的原因，是作者发现自己的一些大作业成果被部分同学随意传阅，且并未直接通知作者本人，有可能导致互相抄袭的行为！┭┮﹏┭┮。
+将本仓库开源的原因，是作者发现自己的一些大作业成果被部分同学随意传阅，且并未直接通知作者本人，有可能导致互相抄袭的行为！┭┮﹏┭┮。
 
-故作者决定以此方式开源，既作为资料仓库，又作为原创证明，也希望造福更多热爱航空航天学习的同学与相关人员 ~
-{% endnote %}
+故作者决定以此方式开源，既作为资料仓库，又作为原创证明，也希望能够为学校专业宣传出一份力，更希望造福更多热爱航空航天学习的同学与相关人员 ~
+
+不忘工大培养，感谢各位老师！**公诚勇毅，三实一新，薪火相传！**
 
 ------
 
@@ -121,8 +122,6 @@
 <font size = 2.5>If you think this project is helpful to you, do not hesitate to light up the 'Star' or 'Fork' in my Github Repository!</font>
 
 <font size = 2.5>Written by <i><b>pkufzh (Small Shrimp)</b></i> on <i><b>2022/03/13</b></i> .</font>
-
-------
 
 <font size = 2.5>*This project is protected by the Creative Commons Zero v1.0 Universal (CC) license. Please obey the open source rules strictly.*</font>
 
