@@ -18,11 +18,11 @@
 
 各个仓库的 ***Git*** 导航请***点击下方链接***：
 
-***「Freshman Year」***    :running:: [大一上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :running:: [大一下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6)
+:running:: [大一上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :running:: [大一下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6) ***「Freshman Year」*** 
 
-***「Sophomore Year」*** :man_student:: [大二上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6) :man_student:: [大二下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6)
+:man_student:: [大二上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_3_6) :man_student:: [大二下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_4_6) ***「Sophomore Year」***
 
-***「Junior Year」***          :man_technologist:: [大三上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_1_6) :man_technologist:: [大三下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_2_6)
+:man_technologist:: [大三上学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_5_6) :man_technologist:: [大三下学期](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6) ***「Junior Year」***
 
 收录科目及包含资料的**总目录**展示如下（所有仓库目录均相同）：
 
@@ -75,13 +75,13 @@
 | [飞行器总体设计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1) | 大三 下 |              |             | :page_facing_up: | :package: |                    |
 | [飞行器结构设计](https://github.com/pkufzh/NWPU_Aircraft_Engineering_Courses_Term_6_6/tree/master/%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1) | 大三 下 | :green_book: |             |                  | :package: |                    |
 
-注：以上统计信息可能不准确，请大家移步具体仓库查看 ~
+*注：以上统计信息可能不准确，请大家移步具体仓库查看资料 ~*
 
 ## Declaration
 
-仓库中有一些课程课件、精选笔记和分享资料是来自老师、学长学姐或者网络的，在各个学科的子文件夹内均有明显的名称标注。
+仓库中有一些课程课件、精选笔记和分享资料是来自老师、学长学姐或者网络的，在各个学科的子文件夹内均采用明显名称标注。
 
-其中涉及隐私或者机密的文件已经严格删除，请大家监督！
+另外，其中涉及隐私或者秘密的文件已经全部删除，请大家严格监督！
 
 如果涉及版权问题（**例如：部分资料无法外传**）请联系作者，我会立刻删除。
 
@@ -95,7 +95,7 @@
 - ***Bilibili Space*:** [SmallShrimp99](https://link.zhihu.com/?target=https%3A//space.bilibili.com/167343763)
 - ***知乎：*** [小小哒虾米](https://www.zhihu.com/people/xiao-xiao-da-xia-mi)
 
-**注意：**本仓库分享的所有资料署名权由本仓库分享者所有！:muscle:
+本仓库分享的所有资料署名权由本仓库分享者所有！:muscle:
 
 ## Notice
 
